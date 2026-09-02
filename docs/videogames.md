@@ -29,10 +29,10 @@ A platformer is a genre where the player controls a character jumping and climbi
 - Super Mario Bros
 
 ## Puzzle
+A puzzle is a game, problem, or toy that tests a person's ingenuity or knowledge. In a puzzle, the solver is expected to put pieces together (or take them apart) in a logical way, in order to find the solution of the puzzle. There are different genres of puzzles, such as crossword puzzles, word-search puzzles, number puzzles, relational puzzles, and logic puzzles. The academic study of puzzles is called enigmatology.
+[Wikipedia](https://en.wikipedia.org/wiki/Puzzle)
 
-<!-- Agregar descripción del género y link a Wikipedia -->
-
-- Tetris
+- [Tetris](https://en.wikipedia.org/wiki/Puzzle)
 
 ## Sandbox
 
